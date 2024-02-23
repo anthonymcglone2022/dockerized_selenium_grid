@@ -1,0 +1,2 @@
+- Navigate to the repo's top-level directory
+- Run `docker-compose up -d` to bring up the Selenium Grid
